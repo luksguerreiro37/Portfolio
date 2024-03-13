@@ -56,8 +56,7 @@ export const Home = (): JSX.Element => {
                 desenvolver
               </Text>{" "}
               <Text as="h1" type="heading1" color="grey5">
-                projetos. Sou um desenvolvedor Full Stack bem-sucedidos. Estou aberto a novas oportunidades de
-                trabalho.
+                projetos. Sou um desenvolvedor Full Stack bem-sucedido, proativo e sempre procuro me aprimorar como um programador, meu objetivo é me tornar um dos melhores no meu ramo e ganhar reconhecimento internacional.
               </Text>
             </Text>
             <Text type="body1" color="grey2">
